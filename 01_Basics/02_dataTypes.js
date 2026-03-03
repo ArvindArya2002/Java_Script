@@ -6,7 +6,7 @@ bigint
 string => ""
 boolean => true/False
 null => standalone value
-undefined =>
+undefined => undefined
 symbol => unique used most in React..
 */
 
